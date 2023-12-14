@@ -1,0 +1,15 @@
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.csproj.AssemblyReference.cache
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Form1.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Form2.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Form3.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Form4.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Form5.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Properties.Resources.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.csproj.GenerateResource.cache
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.csproj.CoreCompileInputs.cache
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\bin\Debug\fibu.exe.config
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\bin\Debug\fibu.exe
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\bin\Debug\fibu.pdb
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.Form6.resources
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.exe
+C:\Users\selin\OneDrive\Masaüstü\fibu\fibu\obj\Debug\fibu.pdb
