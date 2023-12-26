@@ -106,6 +106,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form4";
             this.Text = "Ödeme Tamamlanmıştır";
+            this.Load += new System.EventHandler(this.Form4_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

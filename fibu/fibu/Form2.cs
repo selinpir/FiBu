@@ -606,7 +606,7 @@ namespace fibu
                                     $"Konu: {secilenFilm.konu}";
             }
         }
-
+        //internetteb
         private void button5_Click(object sender, EventArgs e)
         {
 
@@ -640,7 +640,7 @@ namespace fibu
             form6.Show();
             this.Hide();
         }
-
+   
         private void label4_Click(object sender, EventArgs e)
         {
 

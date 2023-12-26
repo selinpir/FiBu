@@ -36,5 +36,10 @@ namespace fibu
             MessageBox.Show("Terminatör en yakın zamanda gelmeni istiyor.FiBu'yu tercih ettiğin için teşekkürler.");
             Application.Exit();
         }
+
+        private void Form5_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

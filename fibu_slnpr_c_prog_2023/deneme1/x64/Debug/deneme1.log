@@ -1,0 +1,4 @@
+﻿  deneme1.c
+C:\Users\selin\OneDrive\Masaüstü\fibu_slnpr_c_prog_2023\deneme1\deneme1.c(158,21): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\selin\OneDrive\Masaüstü\fibu_slnpr_c_prog_2023\deneme1\deneme1.c(231,29): warning C4013: 'strlen' undefined; assuming extern returning int
+  deneme1.vcxproj -> C:\Users\selin\OneDrive\Masaüstü\fibu_slnpr_c_prog_2023\x64\Debug\deneme1.exe

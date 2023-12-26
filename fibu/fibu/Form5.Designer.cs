@@ -159,6 +159,7 @@
             this.Controls.Add(this.label3);
             this.Name = "Form5";
             this.Text = "Ödemeniz Tamamlanamamıştır";
+            this.Load += new System.EventHandler(this.Form5_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
