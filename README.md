@@ -1,5 +1,7 @@
 # FiBu
  project
+
+ C VE C# DİLİNDE FİBU PROJEM
 ![6eg](https://github.com/selinpir/FiBu/assets/113732977/47b9f662-0bfd-4093-954d-ea904804d4ee)
 ![5eg](https://github.com/selinpir/FiBu/assets/113732977/9f293915-b150-4dfc-8249-a2ac88dee078)
 ![4eg](https://github.com/selinpir/FiBu/assets/113732977/7834facd-9dee-40d3-a025-0b6884a14537)
